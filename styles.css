@@ -155,7 +155,7 @@ body {
 
 @media (max-width: 841px) {
   body {
-    height: 0;
+    height: auto;
     grid-template-rows: 1fr auto;
     margin: 42px 0;
   }
